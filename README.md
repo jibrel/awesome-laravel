@@ -1038,3 +1038,296 @@ Spatie produces an exceptional suite of Laravel packages. Key packages by catego
 
 > **Legend:** ⭐ = Recommended / most widely adopted in its category.
 > Packages listed reflect community adoption, maintenance status, and compatibility with Laravel 11/12 as of early 2026.
+
+# 🟪 Top 100 Laravel-Based Projects
+
+> A curated list of the most notable open-source projects, packages, and production platforms built with the [Laravel](https://laravel.com) PHP framework.
+
+---
+
+## 📑 Table of Contents
+
+- [🏆 Tier 1 — Mega Projects (20k+ Stars)](#tier-1-mega-projects-20k-stars)
+- [🥇 Tier 2 — Major Open-Source Applications (10k–20k Stars)](#tier-2-major-open-source-applications-10k–20k-stars)
+- [🥈 Tier 3 — Established Projects & Ecosystem (5k–10k Stars)](#tier-3-established-projects-&-ecosystem-5k–10k-stars)
+- [🥉 Tier 4 — Notable Applications & Packages (2k–5k Stars)](#tier-4-notable-applications-&-packages-2k–5k-stars)
+- [📦 Essential Laravel Packages & Frameworks](#essential-laravel-packages-&-frameworks)
+- [🔧 Specialized Tools & Packages](#specialized-tools-&-packages)
+- [🧩 Core Ecosystem & Infrastructure](#core-ecosystem-&-infrastructure)
+- [🏗️ Architecture & Developer Experience](#architecture-&-developer-experience)
+- [🚀 Production SaaS & Commercial Platforms](#production-saas-&-commercial-platforms)
+- [⚡ Community Favorites & Utilities](#community-favorites-&-utilities)
+- [🌐 Platforms, Services & Emerging Tools](#platforms,-services-&-emerging-tools)
+
+
+---
+
+## 🏆 Tier 1 — Mega Projects (20k+ Stars)
+
+| # | Project | Category | Description | Links |
+|--:|---------|----------|-------------|-------|
+| 1 | **Coolify** | `DevOps / PaaS` | Self-hostable PaaS alternative to Vercel, Heroku & Netlify. Deploy apps, databases, and 280+ services. | [GitHub](https://github.com/coollabsio/coolify) · [Website](https://coolify.io) |
+| 2 | **Filament** | `Admin Panel / UI Framework` | Powerful open-source UI framework for Laravel. Build admin panels fast with Livewire. | [GitHub](https://github.com/filamentphp/filament) · [Website](https://filamentphp.com) |
+| 3 | **Monica** | `CRM / Personal` | Personal CRM to manage friends, family, and business relationships. Uses DDD architecture. | [GitHub](https://github.com/monicahq/monica) · [Website](https://www.monicahq.com) |
+| 4 | **Firefly III** | `Finance` | Personal finances manager. Track transactions, budgets, and financial goals. | [GitHub](https://github.com/firefly-iii/firefly-iii) · [Website](https://www.firefly-iii.org) |
+| 5 | **Koel** | `Media / Music` | Personal music streaming server. Built with Laravel + Vue.js. | [GitHub](https://github.com/koel/koel) · [Website](https://koel.dev) |
+
+---
+
+## 🥇 Tier 2 — Major Open-Source Applications (10k–20k Stars)
+
+| # | Project | Category | Description | Links |
+|--:|---------|----------|-------------|-------|
+| 6 | **BookStack** | `Documentation / Wiki` | Platform for creating documentation/wiki content. Used across 7k+ sites. | [GitHub](https://github.com/BookStackApp/BookStack) · [Website](https://www.bookstackapp.com) |
+| 7 | **Invoice Ninja** | `Invoicing / Billing` | Invoicing and billing platform for freelancers and small businesses. | [GitHub](https://github.com/invoiceninja/invoiceninja) · [Website](https://www.invoiceninja.com) |
+| 8 | **Cachet** | `Status Pages` | Beautiful open-source status page system for monitoring service uptime. | [GitHub](https://github.com/cachethq/cachet) · [Website](https://cachethq.io) |
+| 9 | **Flarum** | `Forum` | Next-generation forum software. Modern, fast, and extensible. | [GitHub](https://github.com/flarum/flarum) · [Website](https://flarum.org) |
+| 10 | **Bagisto** | `E-Commerce` | Open-source Laravel eCommerce platform with multi-vendor support. | [GitHub](https://github.com/bagisto/bagisto) · [Website](https://bagisto.com) |
+
+---
+
+## 🥈 Tier 3 — Established Projects & Ecosystem (5k–10k Stars)
+
+| # | Project | Category | Description | Links |
+|--:|---------|----------|-------------|-------|
+| 11 | **Snipe-IT** | `Asset Management` | Free open-source IT asset/license management system. | [GitHub](https://github.com/snipe/snipe-it) · [Website](https://snipeitapp.com) |
+| 12 | **Akaunting** | `Accounting` | Free online accounting software for small businesses and freelancers. | [GitHub](https://github.com/akaunting/akaunting) · [Website](https://akaunting.com) |
+| 13 | **October CMS** | `CMS` | Self-hosted CMS platform based on Laravel. Focus on simplicity. | [GitHub](https://github.com/octobercms/october) · [Website](https://octobercms.com) |
+| 14 | **Pterodactyl Panel** | `Game Server Management` | Game server management panel. Uses Docker for server instances. | [GitHub](https://github.com/pterodactyl/panel) · [Website](https://pterodactyl.io) |
+| 15 | **Voyager** | `Admin Panel` | The Missing Laravel Admin. Adds a full admin panel with BREAD CRUD. | [GitHub](https://github.com/thedevdojo/voyager) · [Website](https://voyager.devdojo.com) |
+| 16 | **Statamic** | `CMS` | Flat-first, Laravel + Git powered CMS with beautiful control panel. | [GitHub](https://github.com/statamic/cms) · [Website](https://statamic.com) |
+| 17 | **Laravel Debugbar** | `Developer Tools` | Profiling and debugging tool embedding PHP Debug Bar into Laravel. | [GitHub](https://github.com/barryvdh/laravel-debugbar) |
+| 18 | **Krayin CRM** | `CRM / Business` | Free & open-source Laravel CRM for SMEs. Complete customer lifecycle management. | [GitHub](https://github.com/krayin/laravel-crm) · [Website](https://krayincrm.com) |
+| 19 | **FreeScout** | `Helpdesk` | Super lightweight free open-source help desk and shared inbox. HelpScout clone. | [GitHub](https://github.com/freescout-helpdesk/freescout) · [Website](https://freescout.net) |
+| 20 | **Aimeos** | `E-Commerce` | Ultra-fast professional eCommerce components for Laravel. | [GitHub](https://github.com/aimeos/aimeos-laravel) · [Website](https://aimeos.org) |
+
+---
+
+## 🥉 Tier 4 — Notable Applications & Packages (2k–5k Stars)
+
+| # | Project | Category | Description | Links |
+|--:|---------|----------|-------------|-------|
+| 21 | **NexoPOS** | `POS System` | Web-based Point of Sale system with Laravel, TailwindCSS, and Vue.js. | [GitHub](https://github.com/Blair2004/NexoPOS) · [Website](https://nexopos.com) |
+| 22 | **InvoiceShelf** | `Invoicing` | Fork of Crater. Self-hosted invoicing and expense tracking. | [GitHub](https://github.com/InvoiceShelf/InvoiceShelf) · [Website](https://invoiceshelf.com) |
+| 23 | **Canvas** | `Blogging / CMS` | A publishing platform for bloggers built on Laravel. | [GitHub](https://github.com/austintoddj/canvas) |
+| 24 | **Attendize** | `Event Management` | Self-hosted ticket sales and event management platform. | [GitHub](https://github.com/attendize/attendize) · [Website](https://www.attendize.com) |
+| 25 | **PyroCMS** | `CMS` | Modular CMS and development platform built with Laravel. | [GitHub](https://github.com/pyrocms/pyrocms) · [Website](https://pyrocms.com) |
+| 26 | **Jigsaw** | `Static Site Generator` | Static site generator using Blade templates and Markdown. | [GitHub](https://github.com/tighten/jigsaw) · [Website](https://jigsaw.tighten.com) |
+| 27 | **Spatie Laravel Backup** | `DevOps / Backup` | Automated backup of databases and file systems. Multi-destination support. | [GitHub](https://github.com/spatie/laravel-backup) · [Website](https://spatie.be/docs/laravel-backup) |
+| 28 | **Laravel IDE Helper** | `Developer Tools` | Generates helper files for IDE auto-completion. | [GitHub](https://github.com/barryvdh/laravel-ide-helper) |
+| 29 | **Spatie Laravel Permission** | `Auth / RBAC` | Role and permission management for Laravel. | [GitHub](https://github.com/spatie/laravel-permission) · [Website](https://spatie.be/docs/laravel-permission) |
+| 30 | **Laravel Excel** | `Data Import/Export` | Import and export Excel/CSV with Laravel using PhpSpreadsheet. | [GitHub](https://github.com/SpartnerNL/Laravel-Excel) · [Website](https://laravel-excel.com) |
+
+---
+
+## 📦 Essential Laravel Packages & Frameworks
+
+| # | Project | Category | Description | Links |
+|--:|---------|----------|-------------|-------|
+| 31 | **Twill** | `CMS` | CMS toolkit for Laravel by AREA 17. Intuitive and powerful admin panel. | [GitHub](https://github.com/area17/twill) · [Website](https://twillcms.com) |
+| 32 | **Orchid** | `Admin Panel` | Laravel platform for building back-office applications and admin panels. | [GitHub](https://github.com/orchidsoftware/platform) · [Website](https://orchid.software) |
+| 33 | **Laravel Horizon** | `Queue Management` | Dashboard and code-driven configuration for Redis queues. | [GitHub](https://github.com/laravel/horizon) · [Website](https://laravel.com/docs/horizon) |
+| 34 | **Laravel Nova** | `Admin Panel` | Beautifully designed administration panel for Laravel (commercial). | [GitHub](https://github.com/laravel/nova-issues) · [Website](https://nova.laravel.com) |
+| 35 | **Pinkary** | `Social Media` | Social platform built with PHP 8.3, Laravel, Livewire, Alpine. | [GitHub](https://github.com/pinkary-project/pinkary.com) · [Website](https://pinkary.com) |
+| 36 | **Laravel Socialite** | `Authentication` | OAuth authentication with Facebook, Google, Twitter, etc. | [GitHub](https://github.com/laravel/socialite) · [Website](https://laravel.com/docs/socialite) |
+| 37 | **Laravel Sanctum** | `Authentication` | Featherweight authentication system for SPAs and APIs. | [GitHub](https://github.com/laravel/sanctum) · [Website](https://laravel.com/docs/sanctum) |
+| 38 | **Laravel Scout** | `Search` | Driver-based full-text search for Eloquent models. | [GitHub](https://github.com/laravel/scout) · [Website](https://laravel.com/docs/scout) |
+| 39 | **Laravel Echo** | `Real-time` | JavaScript library for subscribing to channels and listening to events. | [GitHub](https://github.com/laravel/echo) · [Website](https://laravel.com/docs/broadcasting) |
+| 40 | **Laravel Telescope** | `Developer Tools` | Debug assistant for Laravel. Monitors requests, exceptions, queries. | [GitHub](https://github.com/laravel/telescope) · [Website](https://laravel.com/docs/telescope) |
+
+---
+
+## 🔧 Specialized Tools & Packages
+
+| # | Project | Category | Description | Links |
+|--:|---------|----------|-------------|-------|
+| 41 | **Apiato** | `API Framework` | Framework for building scalable and testable API-centric applications. | [GitHub](https://github.com/apiato/apiato) · [Website](https://apiato.io) |
+| 42 | **AvoRed** | `E-Commerce` | Modular open-source eCommerce platform built on Laravel. | [GitHub](https://github.com/avored/laravel-ecommerce) · [Website](https://www.avored.com) |
+| 43 | **Botman** | `Chatbot` | Framework-agnostic PHP library for building chatbots. | [GitHub](https://github.com/botman/botman) · [Website](https://botman.io) |
+| 44 | **LaraAdmin** | `Admin Panel / CRM` | Open-source CRM platform with CRUD generation and module management. | [GitHub](https://github.com/dwijitsolutions/laraadmin) · [Website](https://laraadmin.com) |
+| 45 | **Asgard CMS** | `CMS` | Modular, multi-language CMS built with Laravel. | [GitHub](https://github.com/AsgardCms/Platform) · [Website](https://asgardcms.com) |
+| 46 | **Laravel.io** | `Community / Forum` | The Laravel community portal source code. | [GitHub](https://github.com/laravelio/laravel.io) · [Website](https://laravel.io) |
+| 47 | **Lemon Squeezy** | `Payments / SaaS` | Payment provider built with Laravel + Vue (acquired by Stripe). | [Website](https://www.lemonsqueezy.com) |
+| 48 | **Geocodio** | `Geocoding / API` | Low-cost geocoding web service built with Laravel + Nova. | [Website](https://www.geocod.io) |
+| 49 | **Podscan** | `Podcast Analytics` | Podcast scanning and monitoring SaaS. 5-6 TB raw storage. | [Website](https://podscan.fm) |
+| 50 | **Fathom Analytics** | `Analytics` | Privacy-focused analytics. Handles 157B+ requests/month on Laravel infra. | [Website](https://usefathom.com) |
+
+---
+
+## 🧩 Core Ecosystem & Infrastructure
+
+| # | Project | Category | Description | Links |
+|--:|---------|----------|-------------|-------|
+| 51 | **Spatie Media Library** | `File Management` | Associate files with Eloquent models. Conversions and optimizations. | [GitHub](https://github.com/spatie/laravel-medialibrary) · [Website](https://spatie.be/docs/laravel-medialibrary) |
+| 52 | **Spatie Activitylog** | `Logging / Audit` | Log activity inside your Laravel app. | [GitHub](https://github.com/spatie/laravel-activitylog) · [Website](https://spatie.be/docs/laravel-activitylog) |
+| 53 | **Laravel Passport** | `Authentication` | Full OAuth2 server implementation for Laravel. | [GitHub](https://github.com/laravel/passport) · [Website](https://laravel.com/docs/passport) |
+| 54 | **Laravel Cashier** | `Payments` | Expressive interface to Stripe's subscription billing services. | [GitHub](https://github.com/laravel/cashier-stripe) · [Website](https://laravel.com/docs/billing) |
+| 55 | **Laravel Breeze** | `Starter Kit` | Minimal authentication scaffolding with Blade, Vue, or React. | [GitHub](https://github.com/laravel/breeze) · [Website](https://laravel.com/docs/starter-kits) |
+| 56 | **Laravel Jetstream** | `Starter Kit` | Full-featured auth scaffolding with Livewire or Inertia. | [GitHub](https://github.com/laravel/jetstream) · [Website](https://jetstream.laravel.com) |
+| 57 | **Livewire** | `Frontend / Reactivity` | Full-stack framework for building dynamic UIs without leaving PHP. | [GitHub](https://github.com/livewire/livewire) · [Website](https://livewire.laravel.com) |
+| 58 | **Inertia.js** | `Frontend / SPA` | Build SPAs without building an API. Server-driven routing. | [GitHub](https://github.com/inertiajs/inertia-laravel) · [Website](https://inertiajs.com) |
+| 59 | **Stancl Tenancy** | `Multi-Tenancy` | Automatic multi-tenancy for Laravel. Schema or DB per tenant. | [GitHub](https://github.com/stancl/tenancy) · [Website](https://tenancyforlaravel.com) |
+| 60 | **Laravel Pennant** | `Feature Flags` | Feature flag management for Laravel applications. | [GitHub](https://github.com/laravel/pennant) · [Website](https://laravel.com/docs/pennant) |
+
+---
+
+## 🏗️ Architecture & Developer Experience
+
+| # | Project | Category | Description | Links |
+|--:|---------|----------|-------------|-------|
+| 61 | **Corcel** | `WordPress Integration` | Use WordPress backend with Laravel models. Read from WP database. | [GitHub](https://github.com/corcel/corcel) |
+| 62 | **Spatie Query Builder** | `API / Query` | Build Eloquent queries from API requests with filtering and sorting. | [GitHub](https://github.com/spatie/laravel-query-builder) · [Website](https://spatie.be/docs/laravel-query-builder) |
+| 63 | **Laravel Pint** | `Code Style` | Opinionated PHP code style fixer built on PHP-CS-Fixer. | [GitHub](https://github.com/laravel/pint) · [Website](https://laravel.com/docs/pint) |
+| 64 | **Pest PHP** | `Testing` | Elegant PHP testing framework with a focus on simplicity. | [GitHub](https://github.com/pestphp/pest) · [Website](https://pestphp.com) |
+| 65 | **Laravel Dusk** | `Testing / Browser` | Browser automation and testing tool for Laravel. | [GitHub](https://github.com/laravel/dusk) · [Website](https://laravel.com/docs/dusk) |
+| 66 | **Laravel Reverb** | `WebSocket` | First-party WebSocket server for Laravel. Real-time broadcasting. | [GitHub](https://github.com/laravel/reverb) · [Website](https://laravel.com/docs/reverb) |
+| 67 | **Lighthouse** | `GraphQL` | Framework for serving GraphQL from Laravel applications. | [GitHub](https://github.com/nuwave/lighthouse) · [Website](https://lighthouse-php.com) |
+| 68 | **Larastan** | `Static Analysis` | PHPStan extension for Laravel. Finds bugs without running code. | [GitHub](https://github.com/larastan/larastan) |
+| 69 | **Spatie Laravel Data** | `Data Objects` | Powerful data objects for Laravel applications. | [GitHub](https://github.com/spatie/laravel-data) · [Website](https://spatie.be/docs/laravel-data) |
+| 70 | **Laravel Octane** | `Performance` | Supercharge Laravel with Swoole and RoadRunner. | [GitHub](https://github.com/laravel/octane) · [Website](https://laravel.com/docs/octane) |
+
+---
+
+## 🚀 Production SaaS & Commercial Platforms
+
+| # | Project | Category | Description | Links |
+|--:|---------|----------|-------------|-------|
+| 71 | **Mumsnet** | `Community / Publishing` | UK's largest parenting platform, fully rebuilt on Laravel. | [Website](https://www.mumsnet.com) |
+| 72 | **SaaSykit** | `SaaS Boilerplate` | Laravel-based boilerplate for building SaaS products. | [GitHub](https://github.com/saasykit/saasykit) · [Website](https://saasykit.com) |
+| 73 | **Laracasts** | `Education` | Definitive educational resource for Laravel developers. Laravel + Vue backend. | [Website](https://laracasts.com) |
+| 74 | **Directify** | `Directory / SaaS` | Directory builder SaaS. $50K revenue, $1.5K MRR. Laravel + Filament. | [Website](https://directify.app) |
+| 75 | **Klasio** | `LMS / Education` | Modern LMS for creators, educators, and online academies. | [Website](https://klasio.com) |
+| 76 | **Ghost Explorer** | `Publishing` | Powers explore.ghost.org. ~12M req/mo on Laravel Cloud. | [Website](https://ghost.org) |
+| 77 | **SplitMyExpenses** | `Finance / Personal` | Expense splitting app built with Laravel. | [Website](https://splitmyexpenses.com) |
+| 78 | **LINQ Me Up** | `AI / SaaS` | AI-empowered SaaS platform built with Laravel. | — |
+| 79 | **StyleCI** | `CI/CD` | PHP coding style continuous integration service. Fixes GitHub repos. | [Website](https://styleci.io) |
+| 80 | **Handesk** | `Helpdesk` | Help desk ticketing and lead management tool. | [GitHub](https://github.com/BadChoice/handesk) |
+
+---
+
+## ⚡ Community Favorites & Utilities
+
+| # | Project | Category | Description | Links |
+|--:|---------|----------|-------------|-------|
+| 81 | **Laravel Datatables** | `UI / Tables` | jQuery DataTables API for Laravel. Server-side processing. | [GitHub](https://github.com/yajra/laravel-datatables) · [Website](https://yajrabox.com/docs/laravel-datatables) |
+| 82 | **Laravel Websockets** | `WebSocket` | WebSocket server implemented in PHP for Laravel. | [GitHub](https://github.com/beyondcode/laravel-websockets) · [Website](https://beyondco.de/docs/laravel-websockets) |
+| 83 | **Spatie Laravel Sitemap** | `SEO` | Generate sitemaps for Laravel applications. | [GitHub](https://github.com/spatie/laravel-sitemap) · [Website](https://spatie.be/docs/laravel-sitemap) |
+| 84 | **Laravel DomPDF** | `PDF Generation` | HTML to PDF conversion wrapper for Laravel using DomPDF. | [GitHub](https://github.com/barryvdh/laravel-dompdf) |
+| 85 | **Laravel Envoy** | `Deployment` | Task runner for executing common tasks on remote servers. | [GitHub](https://github.com/laravel/envoy) · [Website](https://laravel.com/docs/envoy) |
+| 86 | **Timegrid** | `Booking / Scheduling` | Online reservation platform for businesses. | [GitHub](https://github.com/timegridio/timegrid) |
+| 87 | **GitScrum** | `Project Management` | Git + Scrum task management for developer teams. | [GitHub](https://github.com/renatomarinho/laravel-gitscrum) · [Website](https://gitscrum.com) |
+| 88 | **Laravel Pulse** | `Monitoring` | Real-time application performance monitoring dashboard. | [GitHub](https://github.com/laravel/pulse) · [Website](https://laravel.com/docs/pulse) |
+| 89 | **Spatie Translatable** | `Localization` | Make Eloquent models translatable. | [GitHub](https://github.com/spatie/laravel-translatable) · [Website](https://spatie.be/docs/laravel-translatable) |
+| 90 | **Laravel Folio** | `Routing` | Page-based routing for Laravel applications. | [GitHub](https://github.com/laravel/folio) · [Website](https://laravel.com/docs/folio) |
+
+---
+
+## 🌐 Platforms, Services & Emerging Tools
+
+| # | Project | Category | Description | Links |
+|--:|---------|----------|-------------|-------|
+| 91 | **Voten** | `Social Media` | Real-time community platform. Slack + Reddit hybrid. | [GitHub](https://github.com/voten-co/voten) |
+| 92 | **Laravel Envoyer** | `Deployment` | Zero downtime deployment tool for PHP/Laravel. | [Website](https://envoyer.io) |
+| 93 | **Laravel Forge** | `Server Management` | Server management and deployment. Powers thousands of Laravel apps. | [Website](https://forge.laravel.com) |
+| 94 | **Laravel Vapor** | `Serverless` | Serverless deployment platform for Laravel powered by AWS Lambda. | [Website](https://vapor.laravel.com) |
+| 95 | **Laravel Cloud** | `Cloud Platform` | Official Laravel cloud hosting platform. | [Website](https://cloud.laravel.com) |
+| 96 | **Snappy** | `PDF Generation` | Wrapper for wkhtmltopdf/wkhtmltoimage in Laravel. | [GitHub](https://github.com/KnpLabs/snappy) |
+| 97 | **Spatie Newsletter** | `Email Marketing` | Manage email newsletters with Mailchimp integration. | [GitHub](https://github.com/spatie/laravel-newsletter) |
+| 98 | **Notification Channels** | `Notifications` | Community-driven notification channels (Slack, Telegram, etc.). | [GitHub](https://github.com/laravel-notification-channels) · [Website](https://laravel-notification-channels.com) |
+| 99 | **NativePHP** | `Desktop / Mobile` | Build native desktop and mobile apps with PHP and Laravel. | [GitHub](https://github.com/nativephp/laravel) · [Website](https://nativephp.com) |
+| 100 | **Laravel Prompts** | `CLI / UX` | Beautiful and user-friendly forms for command-line applications. | [GitHub](https://github.com/laravel/prompts) · [Website](https://laravel.com/docs/prompts) |
+
+---
+
+## 📊 Category Breakdown
+
+| Category | Count |
+|----------|------:|
+| Admin Panel | 5 |
+| CMS | 5 |
+| E-Commerce | 3 |
+| Developer Tools | 3 |
+| Authentication | 3 |
+| DevOps | 2 |
+| CRM | 2 |
+| Finance | 2 |
+| Invoicing | 2 |
+| Helpdesk | 2 |
+| Social Media | 2 |
+| Community | 2 |
+| Payments | 2 |
+| Starter Kit | 2 |
+| Frontend | 2 |
+| Testing | 2 |
+| WebSocket | 2 |
+| PDF Generation | 2 |
+| Deployment | 2 |
+| Media | 1 |
+| Documentation | 1 |
+| Status Pages | 1 |
+| Forum | 1 |
+| Asset Management | 1 |
+| Accounting | 1 |
+| Game Server Management | 1 |
+| POS System | 1 |
+| Blogging | 1 |
+| Event Management | 1 |
+| Static Site Generator | 1 |
+| Auth | 1 |
+| Data Import/Export | 1 |
+| Queue Management | 1 |
+| Search | 1 |
+| Real-time | 1 |
+| API Framework | 1 |
+| Chatbot | 1 |
+| Geocoding | 1 |
+| Podcast Analytics | 1 |
+| Analytics | 1 |
+| File Management | 1 |
+| Logging | 1 |
+| Multi-Tenancy | 1 |
+| Feature Flags | 1 |
+| WordPress Integration | 1 |
+| API | 1 |
+| Code Style | 1 |
+| GraphQL | 1 |
+| Static Analysis | 1 |
+| Data Objects | 1 |
+| Performance | 1 |
+| SaaS Boilerplate | 1 |
+| Education | 1 |
+| Directory | 1 |
+| LMS | 1 |
+| Publishing | 1 |
+| AI | 1 |
+| CI/CD | 1 |
+| UI | 1 |
+| SEO | 1 |
+| Booking | 1 |
+| Project Management | 1 |
+| Monitoring | 1 |
+| Localization | 1 |
+| Routing | 1 |
+| Server Management | 1 |
+| Serverless | 1 |
+| Cloud Platform | 1 |
+| Email Marketing | 1 |
+| Notifications | 1 |
+| Desktop | 1 |
+| CLI | 1 |
+
+---
+
+## 🔗 Key Resources
+
+- [Laravel Framework](https://github.com/laravel/laravel) — The framework itself (79k+ stars)
+- [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) — Curated list of packages, tutorials, and resources
+- [Laravel Open-Source Projects](https://github.com/goodnesskay/Laravel-Open-Source-Projects) — Categorized list of open-source Laravel apps
+- [Large Laravel Project Examples](https://github.com/LaravelDaily/Large-Laravel-PHP-Project-Examples) — Real production projects with traffic/revenue data
+- [Laravel Daily Packages](https://laraveldaily.com/packages) — 239+ curated packages with 100+ GitHub stars
+- [Laravel Daily Open-Source Projects](https://laraveldaily.com/code-examples/projects) — Sortable list with code examples
+
+---
+
+*Last updated: March 2026. Star counts are approximate and change frequently.*
+
